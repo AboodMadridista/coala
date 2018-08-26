@@ -34,3 +34,5 @@ Please consider helping us by reviewing other peoples pull requests as well:
 
 The more you review, the more your score will grow at coala.io and we will
 review your PRs faster!
+
+testing for travis
