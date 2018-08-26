@@ -1,5 +1,5 @@
 <!--
-Thanks for your contribution!
+Thanks for your contribution!!
 
 Please take a quick look at those things down there. They're quite important.
 Really! We wrote them for you. Yes you! With utmost care. Read them.
